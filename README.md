@@ -1,6 +1,6 @@
 #
 ![image](https://user-images.githubusercontent.com/102306130/196259204-d87491c7-2e07-4f0b-bd74-6f6e693b25c7.png)
-My interest in code started in in February of 2022 and by May, I had enrolled in SheCodes Workshops. Since then, I've completed SheCodes Basics, SheCodes Plus, SheCodes Responsive, and I am currently completing SheCodes React. Simultaneously, I am learning through CodeCademy. My portfolio is currently under work so feel free to check out my Netflify below!
+My interest in Web Development started in February 2022 and by May, I had enrolled in SheCodes Workshops! Since then, I've completed SheCodes Basics, SheCodes Plus, SheCodes Responsive, and I am currently completing SheCodes React. Simultaneously, I am learning through CodeCademy. My portfolio is currently under work so feel free to check out my Netflify below!
 
 * 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [app.netlify.com/teams/elizabethjeudy/sites](http://app.netlify.com/teams/elizabethjeudy/sites )
