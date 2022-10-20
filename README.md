@@ -3,7 +3,7 @@
 Front-end Developer
 -------------------
 
-My interest in code started in in February of 2022 and by May, I had enrolled in SheCodes Workshops. Since then, I've completed SheCodes Basics, SheCodes Plus, SheCodes Responsive, and I am currently completing SheCodes React. Simultaneously, I am learning through CodeCademy. I love to build things and I love learning new ways to build them. My portfolio is currently under work so feel free to check out my Netflify below!
+My interest in code started in February of 2022 and by May, I had enrolled in SheCodes Workshops. Since then, I've completed SheCodes Basics, SheCodes Plus, SheCodes Responsive, and I am currently completing SheCodes React. Simultaneously, I am learning through CodeCademy. I love to build things and I love learning new ways to build them. My portfolio is currently under work so feel free to check out my Netlify below!
 
 * 🌍  I'm based in South FL
 * 🖥️  See my portfolio at [app.netlify.com/teams/elizabethjeudy/sites](http://app.netlify.com/teams/elizabethjeudy/sites )
