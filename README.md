@@ -3,12 +3,15 @@
 Front-end Developer
 -------------------
 
-My interest in code started in in February of 2022 and by May, I had enrolled in SheCodes Workshops. Since then, I've completed SheCodes Basics, SheCodes Plus, SheCodes Responsive, and I am currently completing SheCodes React. Simultaneously, I am learning through CodeCademy. I love to build things and I love learning new ways to build them.
+Hey, I'm Elizabeth and I am newly passionate about building things for the web. My journey originally began when I was a middle schooler customizing MySpace themes which taught me about HTML & CSS, and never thought anything more of it. Fast foward to 10+ years later and who would have guessed!
+
+The beginning of 2022 is where it truly piqued my interest, however like most career switchers, I didn't believe learning how to program would be a concept I could grasp.
+Since that interest, I've been able to reignite my passion for creativity and combine it with creating web applications. I've developed a couple of projects that you'll find below which I am proud of. I am now looking for a junior developer position, but in the meantime I will continue creating and learning.
 
 * 🌍  I'm based in South FL
 * 🖥️  See my portfolio at www.ejeudy.com
 * ✉️  You can contact me at [tjeudy.e@gmail.com](mailto:tjeudy.e@gmail.com)
-* 🧠  I'm learning SheCodes React / Learn React (CodeCademy)
+* 🧠 I am currently completing the course Learn React (CodeCademy) and JavaScript Algorithms and Data Structures (freeCodeCamp)
 * ⚡  I love reading :)
 
 ### Skills
@@ -19,8 +22,7 @@ My interest in code started in in February of 2022 and by May, I had enrolled in
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
+
 
 ### Socials
 
