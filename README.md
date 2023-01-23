@@ -32,7 +32,7 @@ Since that interest, I've been able to reignite my passion for creativity and co
 * 🌍  I'm based in South FL
 * 🖥️  See my portfolio at www.ejeudy.com
 * ✉️  You can contact me at [tjeudy.e@gmail.com](mailto:tjeudy.e@gmail.com)
-* 🧠 I am currently working on learning React and re-learning Javascript with Learn JavaScript course on Scrimba
+* 🧠 I am currently working on learning React and re-learning Javascript with Learn JavaScript course on Scrimba (front-end turning fullstack)
 * ⚡  I love reading :)
 
 ### Skills
