@@ -3,15 +3,15 @@
   <img src="https://media1.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif?cid=ecf05e47mwq8eei5nwql5gckb5pwwhlte56fzpy5g2lfi7ds&rid=giphy.gif&ct=s"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/elizabeth-jeudy/">
-    <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
   
   <a href="https://twitter.com/LizzyCodes">
-    <img src="https://img.shields.io/badge/Twitter-brown?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-brown?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank"/>
   </a>
   
    <a href="https://codepen.io/elzbthxo">
-    <img src="https://img.shields.io/badge/Codepen-yellow?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+    <img src="https://img.shields.io/badge/Codepen-yellow?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge" target="_blank"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=elizabethJeudy&style=flat-square&color=green" alt=""/>
