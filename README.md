@@ -45,3 +45,14 @@ Since that interest, I've been able to reignite my passion for creativity and co
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
 
+  
+  
+  <div id="stats" align="center">
+  
+  ### :fire: My Stats :
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elizabethJeudy&theme=modern-lilac)](https://git.io/streak-stats)
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethJeudy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
