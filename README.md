@@ -1,6 +1,27 @@
 #
-![image](https://user-images.githubusercontent.com/102306130/196259204-d87491c7-2e07-4f0b-bd74-6f6e693b25c7.png)
-Front-end Developer
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif?cid=ecf05e47mwq8eei5nwql5gckb5pwwhlte56fzpy5g2lfi7ds&rid=giphy.gif&ct=s"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/elizabeth-jeudy/">
+    <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/LizzyCodes">
+    <img src="https://img.shields.io/badge/Twitter-brown?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+   <a href="https://codepen.io/elzbthxo">
+    <img src="https://img.shields.io/badge/Codepen-yellow?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=elizabethJeudy&style=flat-square&color=green" alt=""/>
+  
+  </div>
+
+</div>
+
+
+
 -------------------
 
 Hey, I'm Elizabeth and I am newly passionate about building things for the web. My journey originally began when I was a middle schooler customizing MySpace themes which taught me about HTML & CSS, and never thought anything more of it. Fast foward to 10+ years later and who would have guessed!
@@ -11,7 +32,7 @@ Since that interest, I've been able to reignite my passion for creativity and co
 * 🌍  I'm based in South FL
 * 🖥️  See my portfolio at www.ejeudy.com
 * ✉️  You can contact me at [tjeudy.e@gmail.com](mailto:tjeudy.e@gmail.com)
-* 🧠 I am currently completing the course Learn React (CodeCademy) and JavaScript Algorithms and Data Structures (freeCodeCamp)
+* 🧠 I am currently working on learning React and re-learning Javascript with Learn JavaScript course on Scrimba
 * ⚡  I love reading :)
 
 ### Skills
@@ -24,6 +45,3 @@ Since that interest, I've been able to reignite my passion for creativity and co
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
 
-### Socials
-
-<p align="left"> <a href="https://codesandbox.io/u/elzbthxo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/elizabethJeudy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elizabeth-jeudy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   <a href="https://twitter.com/LizzyCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
