@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-brown?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank"/>
   </a>
   
-   <a href="https://codepen.io/ellizabethJeudy">
+   <a href="https://codepen.io/elizabethJeudy">
     <img src="https://img.shields.io/badge/Codepen-yellow?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge" target="_blank"/>
   </a>
   <br/>
