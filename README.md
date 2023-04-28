@@ -24,29 +24,31 @@
 
 -------------------
 
-Hey, I'm Elizabeth and I am newly passionate about building things for the web. My journey originally began when I was a middle schooler customizing MySpace themes which taught me about HTML & CSS, and never thought anything more of it. Fast foward to 10+ years later and who would have guessed!
+Hey, I'm Elizabeth and I'm an enthusiastic and driven Software Developer who is passionate about creating innovative and user-friendly solutions. With my expertise in HTML, CSS, JavaScript, and React, I have a strong foundation in Front-End web development and am eager to expand my skills to Full Stack Development. I'm a creative problem-solver who is always seeking out new challenges and opportunities to learn. I am adept at turning complex problems into elegant solutions and committed to delivering high-quality work that meets user needs. Beyond my technical skills, I'm a well-rounded individual who enjoys reading and traveling in my free time. My curiosity and sense of adventure make me a valuable team member who is always looking for ways to grow and improve.
 
-The beginning of 2022 is where it truly piqued my interest, however like most career switchers, I didn't believe learning how to program would be a concept I could grasp.
-Since that interest, I've been able to reignite my passion for creativity and combine it with creating web applications. I've developed a couple of projects that you'll find below which I am proud of. I am now looking for a junior developer position, but in the meantime I will continue creating and learning.
+*   🌍  I'm based in South FL
+*   🖥️  See my portfolio at [here](http://https://elizabethjeudy.com/)
+*   ✉️  You can contact me at [tjeudy.e@gmail.com](mailto:tjeudy.e@gmail.com)
+*   🧠  I'm learning Java and relearning the fundamentals of JavaScript and Data Structures
+*   ⚡  I love reading :)
 
-* 🌍  I'm based in South FL
-* 🖥️  See my portfolio at www.ejeudy.com
-* ✉️  You can contact me at [tjeudy.e@gmail.com](mailto:tjeudy.e@gmail.com)
-* 🧠 I am currently relearning javascript basics, and learning Java 
-* ⚡  I love reading :)
 
-### Skills
-
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
+                    
+    
 
-  
-  
   <div id="stats" align="center">
   
   ### :fire: My Stats :
