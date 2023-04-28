@@ -27,7 +27,7 @@
 Hey, I'm Elizabeth and I'm an enthusiastic and driven Software Developer who is passionate about creating innovative and user-friendly solutions. With my expertise in HTML, CSS, JavaScript, and React, I have a strong foundation in Front-End web development and am eager to expand my skills to Full Stack Development. I'm a creative problem-solver who is always seeking out new challenges and opportunities to learn. I am adept at turning complex problems into elegant solutions and committed to delivering high-quality work that meets user needs. Beyond my technical skills, I'm a well-rounded individual who enjoys reading and traveling in my free time. My curiosity and sense of adventure make me a valuable team member who is always looking for ways to grow and improve.
 
 *   🌍  I'm based in South FL
-*   🖥️  See my portfolio at [here](http://https://elizabethjeudy.com/)
+*   🖥️  See my portfolio at [here](https://elizabethjeudy.com/)
 *   ✉️  You can contact me at [tjeudy.e@gmail.com](mailto:tjeudy.e@gmail.com)
 *   🧠  I'm learning Java and relearning the fundamentals of JavaScript and Data Structures
 *   ⚡  I love reading :)
