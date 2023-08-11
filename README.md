@@ -1,20 +1,24 @@
 #
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif?cid=ecf05e47mwq8eei5nwql5gckb5pwwhlte56fzpy5g2lfi7ds&rid=giphy.gif&ct=s"/>
+
+<img src="/github-header.png" alt="Alt text" title="Optional title">
+
+  
+ 
 <div id="badges">
   <a href="https://www.linkedin.com/in/elizabeth-jeudy/">
-    <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
   
   <a href="https://twitter.com/LizzyCodes">
-    <img src="https://img.shields.io/badge/Twitter-brown?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank"/>
+    <img src="https://img.shields.io/badge/Twitter-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank"/>
   </a>
   
    <a href="https://codepen.io/elizabethJeudy">
-    <img src="https://img.shields.io/badge/Codepen-yellow?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge" target="_blank"/>
+    <img src="https://img.shields.io/badge/Codepen-brown?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge" target="_blank"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=elizabethJeudy&style=flat-square&color=green" alt=""/>
+
   
   </div>
 
@@ -54,8 +58,16 @@ Hey, I'm Elizabeth and I'm an enthusiastic and driven Software Developer who is 
   
   ### :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elizabethJeudy&theme=modern-lilac)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elizabethJeudy&theme=gruvbox-light&hide_border=true)](https://git.io/streak-stats)
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethJeudy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethJeudy&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+   <!--profile views <img src="https://komarev.com/ghpvc/?username=elizabethJeudy&style=flat-square&color=red" alt=""/> 
 
 </div>
