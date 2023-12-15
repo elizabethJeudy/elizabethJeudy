@@ -34,8 +34,7 @@
 *   🧠  I'm learning Java, NextJS, and relearning the fundamentals of JavaScript and Data Structures
 *   👩🏾‍💻  I'm currently working on  <br/>
          -  a book shop app using react, nextjs, and materialUI 📚 <br/>
-         -  Scrimba Frontend Career Path 📔 <br/>
-         -  freeCodeCamp Learn Java ☕️
+         -  Codecademy Learn Java ☕️
 *   ⚡   I love reading :)
 
 
