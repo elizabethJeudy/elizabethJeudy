@@ -33,8 +33,7 @@
 *   ✉️   You can contact me at [tjeudy.e@gmail.com](mailto:tjeudy.e@gmail.com)
 *   🧠  I'm learning Java, NextJS, and relearning the fundamentals of JavaScript and Data Structures
 *   👩🏾‍💻  I'm currently working on  <br/>
-         -  a book shop app using react, nextjs, and materialUI 📚 <br/>
-         -  Codecademy Learn Java ☕️
+         -  BS in Software Engineering at WGU 👩🏾‍🎓
 *   ⚡   I love reading :)
 
 
